@@ -1,6 +1,6 @@
 package edu.ncsu.monopoly;
 
-
+//
 //Patata komentarioa jarri dut
 public abstract class Card {
 
